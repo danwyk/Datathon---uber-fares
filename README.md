@@ -14,8 +14,8 @@
 - Fares per mile in NYC is affected by day, time, and number of passengers   
 - Manhattan downtown, LaGuardia Airport, and John F. Kennedy International Airport are the three most rewarding places for the uber drivers   
 - Uber drivers in NYC should have different strategies between weekdays and weekends   
-`For Weekdays, uber drivers should take as many orders as possible in 12 pm. The best time during weekday,from the data, is around Thursday 12 am.`   
-`For Saturday, they should take as many orders as possible between 12:00 am to 4 am`   
+1. For Weekdays, uber drivers should take as many orders as possible in 12 pm. The best time during weekday,from the data, is around Thursday 12 am.      
+2. For Saturday, they should take as many orders as possible between 12:00 am to 4 am   
 
 
 ### Demo
