@@ -1,6 +1,6 @@
 # Uber Fares Analysis
-==credit to Yuntao Shang, Vincent Guo, Daniel Wang==   
-*The dataset used for this project comes from ![Kaggle](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset?datasetId=1834623&searchQuery=location)*   
+> credit to Yuntao Shang, Vincent Guo, Daniel Wang   
+*The dataset used for this project comes from [Kaggle](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset?datasetId=1834623&searchQuery=location)*   
 
 ---
 
@@ -19,4 +19,12 @@
 
 
 ### Demo
+![heatmap](https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png)  
 
+<br>
+
+![linemap](https://github.com/danwyk/Datathon_uber_fares/blob/main/linemap.png)
+
+<br>
+
+![linegraph](https://github.com/danwyk/Datathon_uber_fares/blob/main/linegraph.png)
