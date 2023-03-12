@@ -1,7 +1,7 @@
 # Uber Fares Analysis
-> credit to   
-  Yuntao Shang(yuntaos@umich.edu),    
-  Vincent Guo(vincegmz@umich.edu),    
+> Credit to   
+  Yuntao Shang(yuntaos@umich.edu)    
+  Vincent Guo(vincegmz@umich.edu)    
   Daniel Wang(danwyk@umich.edu)  
 
   <br>
