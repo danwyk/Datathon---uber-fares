@@ -19,16 +19,15 @@
 
 
 ### Demo
-![heatmap](https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png)
 <img src"https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png" width="1000">
 
 <br>
 
-![linemap](https://github.com/danwyk/Datathon_uber_fares/blob/main/linemap.png)
+<img src"https://github.com/danwyk/Datathon_uber_fares/blob/main/linemap.png" width="1000">
 
 <br>
 
-![linegraph](https://github.com/danwyk/Datathon_uber_fares/blob/main/linegraph.png)
+<img src"https://github.com/danwyk/Datathon_uber_fares/blob/main/linegraph.png" width="1000">
 
 <br>
 
