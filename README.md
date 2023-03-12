@@ -29,7 +29,7 @@
 
 <img src="https://github.com/danwyk/Datathon_uber_fares/blob/main/linegraph.png" width="1000">
 
-<br>
-
-<img src="https://github.com/danwyk/Datathon_uber_fares/blob/main/datathon_MUgSS1.png" width="1000">
+<p align="center">
+  <img src="https://github.com/danwyk/Datathon_uber_fares/blob/main/datathon_MUgSS1.png" width="800">
+<p>
 
