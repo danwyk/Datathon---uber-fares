@@ -31,4 +31,4 @@
 
 <br>
 
-![|500](https://github.com/danwyk/Datathon_uber_fares/blob/main/datathon_MUgSS1.png)
+![|100](https://github.com/danwyk/Datathon_uber_fares/blob/main/datathon_MUgSS1.png)
