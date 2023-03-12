@@ -1,5 +1,11 @@
 # Uber Fares Analysis
-> credit to Yuntao Shang, Vincent Guo, Daniel Wang   
+> credit to 
+  Yuntao Shang(yuntaos@umich.edu),    
+  Vincent Guo(vincegmz@umich.edu),    
+  Daniel Wang(danwyk@umich.edu)  
+
+  <br>
+ 
 *The dataset used for this project comes from [Kaggle](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset?datasetId=1834623&searchQuery=location)*   
 
 ---
@@ -28,6 +34,8 @@
 <br>
 
 <img src="https://github.com/danwyk/Datathon_uber_fares/blob/main/linegraph.png" width="1000">
+
+<br>
 
 <p align="center">
   <img src="https://github.com/danwyk/Datathon_uber_fares/blob/main/datathon_MUgSS1.png" width="800">
