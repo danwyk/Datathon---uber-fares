@@ -19,7 +19,8 @@
 
 
 ### Demo
-![heatmap](https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png)  
+![heatmap](https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png)
+<img src"https://github.com/danwyk/Datathon_uber_fares/blob/main/heatmap.png" width="1000">
 
 <br>
 
